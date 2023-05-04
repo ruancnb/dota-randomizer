@@ -1,4 +1,4 @@
-const directoryPath = '../../public';
+const directoryPath = '/public';
 
 export const heroes = [
     {
