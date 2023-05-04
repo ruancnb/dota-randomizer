@@ -1,9 +1,9 @@
-const directoryPath = '/backend/src/assets/heroes';
+const directoryPath = '../../public';
 
 export const heroes = [
     {
         name: 'Abbadon',
-        icon: directoryPath + '/abbadon.png',
+        icon: directoryPath + '/abaddon.png',
         attribute: 'universal',
         roles: ['1', '3', '4', '5'],
         id: '',
